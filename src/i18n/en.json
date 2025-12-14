@@ -1,0 +1,48 @@
+{
+  "title": "🎨 Hi AI",
+  "subtitle": "Upload or take photo → Transform → Pay → Download",
+  "header": "Thank you for using Hi AI!",
+
+  "input_image": "Input image",
+  "take_photo": "Take photo",
+  "capture": "Capture",
+  "close": "Close",
+  "delete": "Delete image",
+  "upload_image": "Upload image",
+  "convert_type": "Conversion type",
+  "select_mode": "Please select a conversion type",
+  "result": "Result",
+  "regenerate": "Regenerate image",
+  "pay_to_download": "Pay {{price}} to download HD image",
+  "scan_qr": "Scan with",
+  "confirm_paid": "I have paid",
+  "download_hd": "Download HD image",
+  "mode": {
+    "art": "Art",
+    "history": "Historical figures",
+    "group": "Group"
+  },
+
+  "generate_ai": "Generate AI image",
+
+  "community_title": "Community gallery",
+  "community_desc": "Vietnamese art · Historical figures · Wedding couples",
+
+  "filter": {
+    "all": "All",
+    "dongho": "Dong Ho",
+    "history": "History",
+    "couple": "Couple"
+  },
+
+  "style": {
+    "dongho": "Dong Ho",
+    "hangtrong": "Hang Trong",
+    "sonmai": "Lacquer painting",
+    "luaviet": "Silk painting",
+    "biemhoa": "Caricature",
+    "khacgo": "Wood carving",
+    "dantocthieuso": "Ethnic minority",
+    "sinhhue": "Hue style"
+  }
+}

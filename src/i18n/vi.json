@@ -1,0 +1,49 @@
+{
+  "title": "🎨 Hi AI",
+  "subtitle": "Upload hoặc chụp ảnh → Hóa thân → Thanh toán → Tải ảnh",
+    "header": "Cảm ơn bạn đã sử dụng Hi AI!",
+
+  "input_image": "Ảnh đầu vào",
+  "take_photo": "Chụp ảnh webcam",
+  "capture": "Chụp",
+  "close": "Đóng",
+  "delete": "Xóa ảnh",
+  "upload_image": "Tải ảnh lên",
+  "convert_type": "Loại chuyển đổi",
+  "select_mode": "Vui lòng chọn loại chuyển đổi",
+  "result": "Kết quả",
+  "regenerate": "Tạo lại ảnh",
+  "pay_to_download": "Thanh toán {{price}} để tải ảnh HD",
+  "scan_qr": "Quét mã bằng",
+  "confirm_paid": "Tôi đã thanh toán",
+  "download_hd": "Tải ảnh HD",
+  "mode": {
+    "art": "Nghệ thuật",
+    "history": "Nhân vật lịch sử",
+    "group": "Nhóm"
+  },
+
+  "generate_ai": "Tạo ảnh AI",
+
+  "community_title": "Ảnh từ cộng đồng",
+  "community_desc": "Nghệ thuật Việt · Nhân vật lịch sử · Cặp đôi cưới xưa",
+
+  "filter": {
+    "all": "Tất cả",
+    "dongho": "Đông Hồ",
+    "history": "Lịch sử",
+    "couple": "Cặp đôi"
+  },
+
+  "style": {
+    "dongho": "Đông Hồ",
+    "hangtrong": "Hàng Trống",
+    "sonmai": "Sơn mài",
+    "luaviet": "Lụa Việt",
+    "biemhoa": "Biếm họa",
+    "khacgo": "Khắc gỗ",
+    "dantocthieuso": "Dân tộc thiểu số",
+    "sinhhue": "Sinh Huế"
+  }
+
+}
